@@ -1,0 +1,13 @@
+INFORMATION ABOUT OPERATIONS AND THEIR DURATIONS:
+
+Filename: main_final.py
+PDF processing time is: 17.091851542005315 seconds
+Global get_legend (EasyOCR) processing time is: 11.84506250009872 seconds
+Columns processing time is: 0.00044479104690253735 seconds
+Instances processing time is: 0.0011830830480903387 seconds
+Finding templates processing time is: 0.0002050410257652402 seconds
+Reformatting, combining and adding color time is: 0.0027721249498426914 seconds
+Template_searching time is: 0.446271917084232 seconds
+Total template matching time is: 0 seconds
+Total YOLO time is: 0 seconds
+Total execution time is: 38.31920399994124 seconds

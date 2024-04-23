@@ -1,0 +1,73 @@
+INFORMATION ABOUT OPERATIONS AND THEIR DURATIONS:
+
+Filename: main_final.py
+PDF processing time is: 6.217625985038467 seconds
+Global get_legend (EasyOCR) processing time is: 5.311390399991069 seconds
+Columns processing time is: 0.018290924024768174 seconds
+Instances processing time is: 0.08702863595681265 seconds
+Finding templates processing time is: 11.199040751962457 seconds
+Reformatting, combining and adding color time is: 2.782761432987172 seconds
+Color filterig time is: 19.943334203970153 seconds
+Setup_searching time is: 60.37573829898611 seconds
+Color filterig time is: 0.9796239049755968 seconds
+Setup_searching time is: 34.76297307194909 seconds
+Color filterig time is: 3.301015463017393 seconds
+Setup_searching time is: 36.79846567497589 seconds
+Standard_template_searching time is: 20.426526681985706 seconds
+Tilted template_searching time is: 5.559995770454407e-06 seconds
+Color filterig time is: 0.9130131450365297 seconds
+Setup_searching time is: 46.28030708595179 seconds
+Standard_template_searching time is: 72.00148862204514 seconds
+Tilted template_searching time is: 3.859982825815678e-06 seconds
+Color filterig time is: 0.9004542560433038 seconds
+Setup_searching time is: 21.83293767599389 seconds
+Standard_template_searching time is: 33.45302836201154 seconds
+Tilted template_searching time is: 6.1899772845208645e-06 seconds
+Color filterig time is: 0.8898672900395468 seconds
+Setup_searching time is: 91.04719682200812 seconds
+Color filterig time is: 0.8873892630217597 seconds
+Setup_searching time is: 91.92692252399866 seconds
+Color filterig time is: 0.8968942910432816 seconds
+Setup_searching time is: 42.47757700301008 seconds
+Color filterig time is: 0.8943765079602599 seconds
+Setup_searching time is: 28.306927204015665 seconds
+Standard_template_searching time is: 7.491894044040237 seconds
+Tilted template_searching time is: 7.4899871833622456e-06 seconds
+Color filterig time is: 0.862201237003319 seconds
+Setup_searching time is: 23.68377382599283 seconds
+Color filterig time is: 0.8999565680278465 seconds
+Setup_searching time is: 15.517758113041054 seconds
+Standard_template_searching time is: 8.415202324977145 seconds
+Tilted template_searching time is: 5.470006726682186e-06 seconds
+Color filterig time is: 0.8827270839828998 seconds
+Setup_searching time is: 20.602710938022938 seconds
+Color filterig time is: 0.8584016610402614 seconds
+Setup_searching time is: 39.6980588590377 seconds
+Standard_template_searching time is: 5.979422973003238 seconds
+Tilted template_searching time is: 9.660026989877224e-06 seconds
+Color filterig time is: 0.8364662620006129 seconds
+Setup_searching time is: 19.992488060030155 seconds
+Color filterig time is: 0.9129602609900758 seconds
+Setup_searching time is: 31.692574041022453 seconds
+Color filterig time is: 0.8677721620188095 seconds
+Setup_searching time is: 29.947573663957883 seconds
+Standard_template_searching time is: 33.83144465496298 seconds
+Tilted template_searching time is: 295.45075700595044 seconds
+Color filterig time is: 0.8680223979754373 seconds
+Setup_searching time is: 76.49119846196845 seconds
+Standard_template_searching time is: 19.236683883005753 seconds
+Tilted template_searching time is: 122.16567891399609 seconds
+Color filterig time is: 0.8604131340398453 seconds
+Setup_searching time is: 90.86397655698238 seconds
+Color filterig time is: 0.8548303720308468 seconds
+Setup_searching time is: 100.81515627301997 seconds
+Standard_template_searching time is: 21.094696039974224 seconds
+Tilted template_searching time is: 72.94880576996366 seconds
+Color filterig time is: 0.8396188470069319 seconds
+Setup_searching time is: 84.02897898596711 seconds
+Color filterig time is: 0.8446193269919604 seconds
+Setup_searching time is: 80.4562664089608 seconds
+Template_searching time is: 1827.2907033829833 seconds
+Total template matching time is: 893.7325936541893 seconds
+Total YOLO time is: 2.7801881281775422 seconds
+Total execution time is: 1872.7968952549854 seconds
